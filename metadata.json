@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bharat Biz-Agent",
+  "description": "A multilingual voice-powered business management platform for Indian small businesses, featuring AI-driven billing, analytics, and CRM.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
